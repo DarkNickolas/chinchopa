@@ -22,7 +22,7 @@ print (f" {name} start programming at {datetime.now()}. {location} is the best c
 ```text
 Nick start programming at 2023-09-19 07:54:50.421584. Lviv is the best city!
 ```
-![file_1](Screenshot%202023-09-19%20105228.png"Файл_1")
+![file_1](Screenshot%202023-09-19%20105228.png)
 
 
 ### Висновок: 
